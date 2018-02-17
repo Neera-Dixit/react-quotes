@@ -1,6 +1,5 @@
 # react-quotes
 
-#Stack
 React
 React-router
 Axios
