@@ -1,0 +1,40 @@
+{
+	"quotes" : [
+		{
+			"id" : "Quote_1",
+			"author" : "Neeraj Dixit",
+			"publishedDate" : "August 12,2003",
+			"description": "Work Hard"
+		},
+		{
+			"id" : "Quote_2",
+			"author" : "Kiran Kulkarni",
+			"publishedDate" : "January 10,2015",
+			"description": "Try Try till you succeed"
+		},
+		{
+			"id" : "Quote_3",
+			"author" : "Nikhil Dixit",
+			"publishedDate" : "February 12,2007",
+			"description": "Belive God"
+		},
+		{
+			"id" : "Quote_4",
+			"author" : "Anonymous",
+			"publishedDate" : "February 16,2001",
+			"description": "Work is worship"
+		},
+				{
+			"id" : "Quote_5",
+			"author" : "Neeraj Dixit",
+			"publishedDate" : "december 16,2021",
+			"description": "Commitment"
+		},
+		{
+			"id" : "Quote_6",
+			"author" : "Anonymous",
+			"publishedDate" : "February 16,2001",
+			"description": "GOD"
+		}
+	]
+}
